@@ -1,7 +1,7 @@
 Mobile Applications
 ===================
 
-The Invoice Ninja iPhone and Android applications allows a user to connect to their self-hosted Invoice Ninja web application.
+The Yeenvoice iPhone and Android applications allows a user to connect to their self-hosted Yeenvoice web application.
 
 .. TIP:: If you're unable to access the Android app store you can download the APK here: https://download.invoiceninja.com/apk
 
@@ -10,13 +10,13 @@ Connecting your to your self-hosted invoice ninja installation requires a couple
 Web App configuration
 """""""""""""""""""""
 
-First, you'll need to add an additional field to your .env file which is located in the root directory of your self-hosted Invoice Ninja installation.
+First, you'll need to add an additional field to your .env file which is located in the root directory of your self-hosted Yeenvoice installation.
 
 The additional field to add is API_SECRET, set this to your own defined alphanumeric string.
 
 .. image:: images/env_file_api_secret.png
 
-Save your .env file and now open Invoice Ninja on your iPhone.
+Save your .env file and now open Yeenvoice on your iPhone.
 
 
 Mobile App configuration

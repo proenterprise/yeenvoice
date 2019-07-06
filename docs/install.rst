@@ -1,7 +1,7 @@
 Install
 =======
 
-Thanks for taking the time to setup Invoice Ninja.
+Thanks for taking the time to setup Yeenvoice.
 
 .. Note:: The applications requires PHP 7.0, 7.1 or 7.2 and MySQL.
 
