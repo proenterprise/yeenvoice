@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/hillelcoren/invoice-ninja/master/public/images/round_logo1222.png" alt="Sublime's custom image"/>
-</p>
-
 # Yeenvoice
 
 [![Build Status](https://travis-ci.org/proenterprise/yeenvoice.svg?branch=master)](https://travis-ci.org/proenterprise/yeenvoice)
