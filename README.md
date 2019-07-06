@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/hillelcoren/invoice-ninja/master/public/images/round_logo.png" alt="Sublime's custom image"/>
+    <img src="https://raw.githubusercontent.com/hillelcoren/invoice-ninja/master/public/images/round_logo1222.png" alt="Sublime's custom image"/>
 </p>
 
 # Yeenvoice
