@@ -38,16 +38,3 @@ Want to find out everything there is to know about how to use your Invoice Ninja
    api_tokens
    user_management
 
-.. _self_host:
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Self Host
-
-   install
-   configure
-   update
-   mobile_apps
-   api
-   developer_guide
-   custom_modules
