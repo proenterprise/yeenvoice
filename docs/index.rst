@@ -1,7 +1,7 @@
-Yeenvoice User Guide
+Zero Invoice User Guide
 ========================
 
-Want to find out everything there is to know about how to use your Yeenvoice account? Look no further than our User Guide, where you’ll learn all about creating and sending invoices, receiving payments, creating tasks, converting quotes to invoices, recurring invoices, entering credits and much, much more.
+Want to find out everything there is to know about how to use your Zero Invoice account? Look no further than our User Guide, where you’ll learn all about creating and sending invoices, receiving payments, creating tasks, converting quotes to invoices, recurring invoices, entering credits and much, much more.
 
 .. _basic-features:
 
